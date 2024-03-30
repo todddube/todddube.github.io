@@ -9,3 +9,6 @@
 - Now you have successfully created a virtual environment in python.
 - You can go ahead and install any library in here using pip command.
 6. To exit the virtual environment simply type the following command: deactivate
+
+# pip requirements
+-  pip freeze > requirements.txt
