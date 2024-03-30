@@ -11,4 +11,5 @@
 6. To exit the virtual environment simply type the following command: deactivate
 
 # pip requirements
--  pip freeze > requirements.txt
+- Make: pip freeze > requirements.txt
+- Use: pip install -r requirements.txt

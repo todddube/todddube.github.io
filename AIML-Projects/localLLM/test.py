@@ -1,3 +1,5 @@
+# my hugging face token
+# "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"
 import os 
 import transformers 
 from transformers import AutoModel, AutoTokenizer 
