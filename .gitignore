@@ -1,0 +1,7 @@
+
+AIML-Projects/localLLM/model/config.json
+AIML-Projects/localLLM/model/model.safetensors
+AIML-Projects/localLLM/model/pytorch_model.bin
+AIML-Projects/localLLM/model/rust_model.ot
+AIML-Projects/localLLM/model/tf_model.h5
+/AIML-Projects/localLLM/localllm
